@@ -46,7 +46,7 @@ export default function Footer() {
                   priority={true}
                 />
               </motion.div>
-              <span className="font-bold">Mahefa</span>
+              <span className="font-bold">Titosy</span>
             </button>
             <p className="text-sm text-muted-foreground">
               {t("hero:description")}
@@ -110,7 +110,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Mahefa Nantenaina. {t("common:copyright")}
+            © {new Date().getFullYear()} RAKOTOMANGA Titosy Fitia. {t("common:copyright")}
           </p>
           <p className="text-sm text-muted-foreground">
             {t("common:info")}

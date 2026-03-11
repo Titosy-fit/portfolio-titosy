@@ -7,11 +7,11 @@ import { Head } from "@/components/Head";
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "/"),
   title: {
-    default:"Mahefa | Developer",
-    template: "%s | Mahefa Nantenaina"
+    default:"Titosy | Developer",
+    template: "%s | Titosy Fitia"
   },
-  description: "Professional portfolio of Mahefa Nantenaina",
-  keywords: ["Mahefa","MahefaNant","Developer","FullStack", "Web", "React", "Next", "Java", "Madagascar"],
+  description: "Professional portfolio of RAKOTOMANGA Titosy Fitia",
+  keywords: ["Titosy","TitosyFit","Developer","FullStack", "Web", "React", "Next", "Java", "Madagascar","Laravel"],
   alternates: {
     canonical: process.env.NEXT_PUBLIC_SITE_URL,
   },
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
       url: "/static/images/portfolio-screen.png",
       width: 1200,
       height: 630,
-      alt: "Mahefa Nantenaina - Expert Développeur",
+      alt: "Titosy Fitia - Expert Développeur",
     }]
   },
   robots: {

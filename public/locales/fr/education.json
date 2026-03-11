@@ -4,30 +4,30 @@
     "description2": "Je continue à me former régulièrement sur les nouvelles technologies.",
     "ed-4": {
         "title": "Développement informatique",
-        "institution": "IT University",
-        "description": "License en informatique, option développement à l'IT University (approuvé).",
+        "institution": "Institut Supérieur Polytechnique de Madagascar (ISPM)",
+        "description": "Diplôme de Licence en informatique, option développement à l'Institut Supérieur Polytechnique de Madagascar.",
         "year": "2024",
-        "badge": "Diplome"
+        "badge": "Diplôme de Licence"
     },
     "ed-3": {
-        "title": "Cours d'anglais",
-        "institution": "ITTI Madagascar",
-        "description": "Certificat de Niveau Supérieur d'Anglais | International Tesol Training Institute - Spoken English ( ITTI) Madagascar.",
-        "year": "2024",
-        "badge": "Certifié"
+        "title": "Baccalauréat Série D",
+        "institution": "Lycée ACCEM",
+        "description": "Obtention du diplôme du Baccalauréat Série D, filière scientifique axée sur les mathématiques, les sciences physiques et les sciences de la vie.",
+        "year": "2019",
+        "badge": "Diplôme"
     },
-    "ed-2": {
-        "title": "Certificat de Chef guide",
-        "institution": "Église adventiste du septième jour",
-        "description": "AFRIQUE AUSTRALE-DIVISION OCÉAN INDIEN Département des ministères de la jeunesse.",
-        "year": "2024",
-        "badge": "Certifié"
+  "ed-2": {
+        "title": "Fullstack Web Development",
+        "institution": "Nir'Info",
+        "description": "Certification in Fullstack Web Development covering modern web technologies including HTML, CSS, JavaScript, backend development, databases, and building complete web applications.",
+        "year": "2021",
+        "badge": "Certificate"
     },
     "ed-1": {
-        "title": "C# with Microsoft",
-        "institution": "freeCodeCamp",
-        "description": "Certification de développeur, réussite du cours de base C# avec Microsoft",
-        "year": "2024",
+        "title": "Certification en Robotique",
+        "institution": "TME Éducation",
+        "description": "Formation en robotique couvrant les bases de la programmation, l’électronique, et la conception de systèmes robotiques simples à travers des projets pratiques.",
+        "year": "2022",
         "badge": "Certifié"
     }
 

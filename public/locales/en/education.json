@@ -4,30 +4,30 @@
     "description2": "I continue to train regularly on new technologies.",
     "ed-4": {
         "title": "Computer Science",
-        "institution": "IT University",
-        "description": "Bachelor's degree in computer science, development option at IT University (approved).",
+        "institution": "Institut Supérieur Polytechnique de Madagascar (ISPM)",
+        "description": "Bachelor's degree in Computer Science, development specialization at Institut Supérieur Polytechnique de Madagascar.",
         "year": "2024",
+        "badge": "Bachelor's Degree"
+    },
+   "ed-3": {
+        "title": "High School Diploma – Science Track (Series D)",
+        "institution": "ACCEM High School",
+        "description": "High school diploma in the scientific track (Series D) with a focus on mathematics, physics, and life sciences.",
+        "year": "2019",
         "badge": "Diploma"
     },
-    "ed-3": {
-        "title": "English courses",
-        "institution": "ITTI Madagascar",
-        "description": "Certificate of Superior Level English | International Tesol Training Institute - Spoken English ( ITTI) Madagascar.",
-        "year": "2024",
-        "badge": "Certified"
-    },
     "ed-2": {
-        "title": "Master Guide certificate",
-        "institution": "Seventh day adventist Church",
-        "description": "SOUTHERN AFRICA-INDIAN ocean division Youth ministries departement.",
-        "year": "2024",
+        "title": "Fullstack Web Development Certificate",
+        "institution": "Nir'Info",
+        "description": "Certification in Fullstack Web Development covering the creation of complete web applications using technologies such as HTML, CSS, JavaScript, backend development, and database management.",
+        "year": "2021",
         "badge": "Certified"
     },
     "ed-1": {
-        "title": "C# with Microsoft",
-        "institution": "freeCodeCamp",
-        "description": "Developer Certification, Successful Completion of Foundational C# with Microsoft",
-        "year": "2024",
+        "title": "Robotics Certification",
+        "institution": "TME Education",
+        "description": "Training in robotics covering the fundamentals of programming, electronics, and the design of simple robotic systems through practical projects.",
+        "year": "2022",
         "badge": "Certified"
     }
 
