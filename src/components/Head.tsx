@@ -8,21 +8,21 @@ export function Head() {
             {
               "@context": "https://schema.org",
               "@type": "Person",
-              "name": "Mahefa Nantenaina",
+              "name": "Titosy Fitia",
               "jobTitle": "Développeur Fullstack",
               "url": process.env.NEXT_PUBLIC_SITE_URL,
               "sameAs": [
-                "https://www.linkedin.com/in/mahefa-nantenaina-419a98271/", 
-                "https://github.com/MahefaNant"
+                "https://www.linkedin.com/in/titosy-fitia-365686321/", 
+                "https://github.com/Titosy-fit"
               ],
               "skills": ["React", "Next.js", "TypeScript", "Java", "PHP", "Spring", "Node", "C#"]
             },
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "Mahefa Nantenaina",
+              "name": "Titosy Fitia",
               "url": process.env.NEXT_PUBLIC_SITE_URL,
-              "logo": `${process.env.NEXT_PUBLIC_SITE_URL}/static/images/mahefa-logo.png`
+              "logo": `${process.env.NEXT_PUBLIC_SITE_URL}/static/images/titosy-logo.png`
             }
           ])
         }}

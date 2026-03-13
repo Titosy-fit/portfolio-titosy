@@ -16,7 +16,7 @@ export function AvatarSection() {
       <div className="absolute inset-0 border-4 border-primary/20 rounded-full animate-spin-slow [animation-duration:20s]" />
       <div className="absolute inset-4 border-4 border-primary/10 rounded-full animate-spin-slow [animation-duration:15s] [animation-direction:reverse]" />
           
-      {/* MAHEFA-avatar */}
+      {/* TITOSY-avatar */}
       <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-background shadow-2xl">
         <Image
           src="/static/images/tyt.png"

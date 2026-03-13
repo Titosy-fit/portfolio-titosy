@@ -31,7 +31,7 @@ export function MenuButton({links, activeSection, setActiveSection, handleClick}
         <DrawerContent>
           <div className="mx-auto w-full max-w-sm">
             <DrawerHeader>
-              <DrawerTitle>Mahefa</DrawerTitle>
+              <DrawerTitle>Titosy</DrawerTitle>
               <DrawerDescription>Navigation</DrawerDescription>
             </DrawerHeader>
             <Separator className="my-4" />

@@ -33,7 +33,7 @@ export default function Loading() {
           >
             <Image
               src="/static/images/tyt-logo.png"
-              alt="MAHEFA"
+              alt="TITOSY"
               className="object-cover"
               priority={true}
               width={100}

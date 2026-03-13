@@ -15,7 +15,7 @@ export function DownloadSection() {
       className="mt-10 flex flex-col sm:flex-row justify-center lg:justify-start gap-4"
     >
       <a
-        href="https://drive.google.com/file/d/1on59wEHX5xP5WZ3zDOMJ0dptDYhKXI__/view?usp=sharing"
+        href="https://drive.google.com/file/d/1-DHqAfBQ5PiNr8UlyZ-8Q8V_8XY5kpW-/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -26,7 +26,7 @@ export function DownloadSection() {
       </a>
       
       <a
-        href="https://github.com/MahefaNant/my-portfolio"
+        href="https://github.com/Titosy-fit"
         target="_blank"
         rel="noopener noreferrer"
       >

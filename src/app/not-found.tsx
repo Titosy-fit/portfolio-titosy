@@ -20,8 +20,8 @@ export default function NotFound() {
             {/* <Rocket className="absolute left-1/2 top-1/2 h-20 w-20 -translate-x-1/2 -translate-y-1/2 text-primary" /> */}
             <div className="w-full h-full rounded-full flex items-center justify-center">
               <Image
-                src="/static/images/mahefa-logo.png"
-                alt="MAHEFA"
+                src="/static/images/titosy-logo.png"
+                alt="TITOSY"
                 className="object-cover"
                 fill={true}
                 priority={true}
