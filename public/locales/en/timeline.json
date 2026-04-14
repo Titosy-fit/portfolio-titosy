@@ -1,22 +1,28 @@
 {
     "section": "Timeline",
-    "description": "The key stages of my professional and academic career.",
+    "description": "Key stages of my professional career.",
+    "pr-4": {
+        "title": "Web and Mobile Developer",
+        "date": "February 2025 – April 2026",
+        "company": "Nir’info – Ampefiloha",
+        "description": "Design and development of more than 10 web and mobile projects (e-commerce platforms and mobile applications). Implementation of REST APIs, integration of third-party services (payment, authentication, SMS), and optimization of database management."
+    },
     "pr-3": {
-        "title": "Next Js (React) Developer",
-        "date": "Jan - Apr 2025",
-        "company": "Tech startup",
-        "description": "Development and maintenance of web applications with React and Next.js. Collaboration with product and design teams."
+        "title": "Freelance WordPress Developer",
+        "date": "August 2025 – December 2025",
+        "company": "AvisProps Freelance",
+        "description": "Design and development of WordPress websites for various clients: theme customization, feature integration, and performance optimization."
     },
     "pr-2": {
-        "title": "React Native Developer (iOS, Android)",
-        "date": "August 2024 - today",
-        "company": "Internal project",
-        "description": "Responsible for the complete development of a mobile application: design, UI/UX design, deployment on iOS and Android, and scalable maintenance of the solution."
+        "title": "Web Application Development",
+        "date": "July 2025 – September 2025",
+        "company": "Symrise Madagascar – Anosy Region, Madagascar",
+        "description": "Design and development of an internal application for training and budget management (PHP / MySQL). Database modeling, generation of reports (PDF/Excel), and automation of tracking calculations."
     },
     "pr-1": {
-        "title": "FullStack Developer Intern",
-        "date": "August - December 2023",
-        "company": "Misaina incorporation",
-        "description": "Responsible for complex web applications on the administrator and client side from design to implementation and deployment."
+        "title": "Mobile and Web Application Development",
+        "date": "January 2024 – January 2025",
+        "company": "RunDev Team – Adavamamba",
+        "description": "Integrated into a development team as a full-stack developer. Contribution to several internal projects (management applications): back-end development in CodeIgniter (PHP), MySQL database management, and implementation of mobile interfaces in React Native."
     }
 }

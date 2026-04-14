@@ -1,22 +1,28 @@
 {
     "section": "Mon Parcours",
-    "description": "Les étapes clés de mon parcours professionnel et académique.",
+    "description": "Les étapes clés de mon parcours professionnel.",
+    "pr-4": {
+        "title": "Développeur web et mobile",
+        "date": "Février 2025 – Avril 2026",
+        "company": "Nir’info – Ampefiloha",
+        "description": "Conception et développement de plus de 10 projets web et mobiles (plateformes e-commerce et applications mobiles). Mise en place d’API REST, intégration de services tiers (paiement, authentification, SMS) et optimisation de la gestion des bases de données."
+    },
     "pr-3": {
-        "title": "Développeur Next Js(React)",
-        "date": "Jan - Avr 2025",
-        "company": "Startup tech",
-        "description": "Développement et maintenance d`applications web avec React, Next.js. Collaboration avec les équipes produit et design."
+        "title": "Développeur WordPress en Freelance",
+        "date": "Août 2025 – Décembre 2025",
+        "company": "AvisProps Freelance",
+        "description": "Conception et développement de sites web sous WordPress pour divers clients : personnalisation des thèmes, intégration de fonctionnalités et optimisation des performances."
     },
     "pr-2": {
-        "title": "Développeur React native(ios,android)",
-        "date": "Août 2024 - today",
-        "company": "Projet interne",
-        "description": "Responsable du développement complet d’une application mobile : conception, design UI/UX, déploiement sur iOS et Android, et maintenance évolutive de la solution."
+        "title": "Développement d’une application web",
+        "date": "Juillet 2025 – Septembre 2025",
+        "company": "Symrise Madagascar – Anosy Region, Madagascar",
+        "description": "Conception et développement d’une application interne de gestion des formations et du budget (PHP / MySQL). Modélisation de la base de données, génération de rapports (PDF/Excel) et automatisation des calculs de suivi."
     },
     "pr-1": {
-        "title": "Stagiaire Développeur FullStack",
-        "date": "Août - Dec 2023",
-        "company": "Misaina incorporation",
-        "description": "Responsable d'application web complexe côté administrateur et client depuis la conception jusqu’à la réalisation et du déploiement."
+        "title": "Développement d’une application mobile et web",
+        "date": "Janvier 2024 – Janvier 2025",
+        "company": "RunDev Team – Adavamamba",
+        "description": "Intégration dans une équipe de développement en tant que développeur full-stack. Contribution à plusieurs projets internes (applications de gestion) : développement back-end en CodeIgniter (PHP), gestion des bases de données MySQL et implémentation d’interfaces mobiles en React Native."
     }
 }

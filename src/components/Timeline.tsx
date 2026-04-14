@@ -19,12 +19,20 @@ export default function Timeline() {
 
   const timelineData: TimelineItem[] = [
     {
+      id: 4,
+      date: t("pr-4.date"),
+      title: t("pr-4.title"),
+      company: t("pr-4.company"),
+      description: t("pr-4.description"),
+      tags: ["Next.js", "React Native", "API REST", "SQL"],
+    },
+    {
       id: 3,
       date: t("pr-3.date"),
       title: t("pr-3.title"),
       company: t("pr-3.company"),
       description: t("pr-3.description"),
-      tags: ["React", "Next.js", "TypeScript","docker", "Payload"],
+      tags: ["WordPress", "PHP", "SEO", "Performance"],
     },
     {
       id: 2,
@@ -32,7 +40,7 @@ export default function Timeline() {
       title: t("pr-2.title"),
       company: t("pr-2.company"),
       description: t("pr-2.description"),
-      tags: ["React native", "Typescript", "Azuracast"],
+      tags: ["PHP", "MySQL", "PDF/Excel", "Architecture"],
     },
     {
       id: 1,
@@ -40,7 +48,7 @@ export default function Timeline() {
       title: t("pr-1.title"),
       company: t("pr-1.company"),
       description: t("pr-1.description"),
-      tags: ["C#", "ASP.NET", "POSTGRESQL", "JavaScript"],
+      tags: ["CodeIgniter", "PHP", "MySQL", "React Native"],
     },
   ];
 
