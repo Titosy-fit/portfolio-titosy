@@ -1,17 +1,21 @@
 {
-    "section": "Mes Réalisations",
+    "section": "Projets Réalisés",
     "description": "Une sélection de projets sur lesquels j'ai travaillé.",
+    "pr-4": {
+        "title": "Application Web IA – Morpion intelligent",
+        "description": "Développement fullstack d'une application web avec IA pour le jeu Tic-Tac-Toe (3 modes : ML, hybride, multijoueur). Génération de dataset (5 478 états), modélisation ML (XGBoost, Logistic Regression) et déploiement sur Streamlit. Interface immersive avec animations et système de duel, démontrant une maîtrise de ML, MLOps et UI/UX."
+    },
     "pr-3": {
-        "title": "Plateforme immobilière",
-        "description": "Une plateforme de gestion et d'échange immobilier, permettant aux particuliers et professionnels de louer, acheter ou vendre des biens tels que des appartements, villas, maisons ou terrains."
+        "title": "Site E-commerce",
+        "description": "Conception et développement d'un site e-commerce fullstack (React.js / TypeScript / Laravel). Mise en place de la gestion des stocks et des paiements sécurisés. Modélisation et optimisation de la base de données pour un fonctionnement performant. Déploiement en production et suivi des performances en environnement NOC."
     },
     "pr-2": {
-        "title": "Application de diffusion audio",
-        "description": "Une application en ligne permettant d’écouter des radios en direct, ainsi que des podcasts à la demande, le tout accessible depuis n’importe quel appareil connecté."
+        "title": "Application Mobile QitKif",
+        "description": "Maintenance et amélioration d'une application mobile fullstack pour un client en Côte d'Ivoire. Résolution de bugs, optimisation des performances et déploiement en production. Intégration de services de paiement et de messagerie tiers pour un parcours utilisateur complet. Optimisation du site web associé pour une meilleure expérience utilisateur."
     },
     "pr-1": {
-        "title": "Plateforme e-commerce complète",
-        "description": "Plateforme e-commerce avec achat de vêtements, gestion des commandes, livraisons et dashboard admin complet."
+        "title": "Application web de gestion budget",
+        "description": "Conception et développement fullstack d'une application de suivi budgétaire (Laravel / Next.js). Implémentation de fonctionnalités analytiques : suivi des dépenses et revenus, génération de graphiques et statistiques, gestion de stock, gestion personnelle. Développement d'API robustes pour l'intégration front-end et back-end, garantissant performance et fiabilité."
     },
     "portfolio": {
         "title": "Mon Portfolio",

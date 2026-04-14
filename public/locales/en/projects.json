@@ -1,17 +1,21 @@
 {
-    "section": "My Achievements",
+    "section": "Completed Projects",
     "description": "A selection of projects I have worked on.",
+    "pr-4": {
+        "title": "AI Web Application – Smart Tic-Tac-Toe",
+        "description": "Fullstack development of a web application with AI for the Tic-Tac-Toe game (3 modes: ML, hybrid, multiplayer). Dataset generation (5,478 states), ML modeling (XGBoost, Logistic Regression) and deployment on Streamlit. Immersive interface with animations and duel system, demonstrating mastery of ML, MLOps and UI/UX."
+    },
     "pr-3": {
-        "title": "Real estate platform",
-        "description": "A real estate management and exchange platform, allowing individuals and professionals to rent, buy or sell properties such as apartments, villas, houses or land."
+        "title": "E-commerce Website",
+        "description": "Design and development of a fullstack e-commerce website (React.js / TypeScript / Laravel). Implementation of inventory management and secure payment processing. Database modeling and optimization for high performance. Production deployment and performance monitoring in a NOC environment."
     },
     "pr-2": {
-        "title": "Audio streaming application",
-        "description": "An online application that allows you to listen to live radio stations and podcasts on demand, all accessible from any connected device."
+        "title": "QitKif Mobile Application",
+        "description": "Maintenance and improvement of a fullstack mobile application for a client in Côte d'Ivoire. Bug resolution, performance optimization and production deployment. Integration of third-party payment and messaging services for a complete user journey. Optimization of the associated website for a better user experience."
     },
     "pr-1": {
-        "title": "Complete e-commerce platform",
-        "description": "E-commerce platform with clothing purchasing, order management, deliveries and a complete admin dashboard."
+        "title": "Budget Management Web Application",
+        "description": "Fullstack design and development of a budget tracking application (Laravel / Next.js). Implementation of analytical features: expense and income tracking, chart and statistics generation, inventory management, personal management. Development of robust APIs for front-end and back-end integration, ensuring performance and reliability."
     },
     "portfolio": {
         "title": "My Portfolio",

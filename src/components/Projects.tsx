@@ -25,28 +25,36 @@ export default function Projects() {
 
   const projects: IProject[] = [
     {
+      id: 4,
+      title: t("pr-4.title"),
+      description: t("pr-4.description"),
+      tags: ["Python", "XGBoost", "Streamlit", "ML", "MLOps"],
+      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png", "/static/images/oa/oa4.png", "/static/images/oa/oa5.png", "/static/images/oa/oa6.png"],
+      isPrivate: true
+    },
+    {
       id: 3,
       title: t("pr-3.title"),
       description: t("pr-3.description"),
-      tags: ["Next.js", "Typescript", "Docker", "Github", "MongoDB"],
-      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png", "/static/images/oa/oa4.png", "/static/images/oa/oa5.png", "/static/images/oa/oa6.png"],
+      tags: ["React.js", "TypeScript", "Laravel", "MySQL"],
+      images: ["/static/images/os/os1.png", "/static/images/os/os2.png", "/static/images/os/os3.png", "/static/images/os/os4.png", "/static/images/os/os5.png", "/static/images/os/os6.png"],
       isPrivate: true
     },
     {
       id: 2,
       title: t("pr-2.title"),
       description: t("pr-2.description"),
-      tags: ["React Native", "Typescript", "Azuracast","sqlite"],
+      tags: ["React Native", "Node.js", "API", "Payment"],
       images: ["/static/images/hopefy.png"],
-      liveUrl: "https://play.google.com/store/apps/details?id=com.hopefy.radiomg",
+      liveUrl: "https://qitkif.com/",
       isPrivate: true
     },
     {
       id: 1,
       title: t("pr-1.title"),
       description: t("pr-1.description"),
-      tags: ["Asp.net", "C#", "Api", "Postgresql"],
-      images: ["/static/images/os/os1.png", "/static/images/os/os2.png", "/static/images/os/os3.png", "/static/images/os/os4.png", "/static/images/os/os5.png", "/static/images/os/os6.png"],
+      tags: ["Laravel", "Next.js", "API", "Chart.js"],
+      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png"],
       isPrivate: true
     }
   ];
