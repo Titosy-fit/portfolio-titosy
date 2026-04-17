@@ -29,7 +29,7 @@ export default function Projects() {
       title: t("pr-4.title"),
       description: t("pr-4.description"),
       tags: ["Python", "XGBoost", "Streamlit", "ML", "MLOps"],
-      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png", "/static/images/oa/oa4.png", "/static/images/oa/oa5.png", "/static/images/oa/oa6.png"],
+      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png", "/static/images/oa/oa4.png"],
       isPrivate: true
     },
     {
@@ -54,7 +54,7 @@ export default function Projects() {
       title: t("pr-1.title"),
       description: t("pr-1.description"),
       tags: ["Laravel", "Next.js", "API", "Chart.js"],
-      images: ["/static/images/oa/oa1.png", "/static/images/oa/oa2.png", "/static/images/oa/oa3.png"],
+      images: ["/static/images/ob/ob1.png", "/static/images/ob/ob2.png", "/static/images/ob/ob3.png"],
       isPrivate: true
     }
   ];

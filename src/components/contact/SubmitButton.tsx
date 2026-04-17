@@ -16,12 +16,12 @@ export function SubmitButton({recaptchaRef,isSubmitting,isValid,emailSent}: ISub
 
   return(
     <>
-      {/* <ReCAPTCHA
+      <ReCAPTCHA
         ref={recaptchaRef}
         sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY!}
         size="invisible"
         badge="inline"
-      /> */}
+      />
 
       <Button
         type="submit"

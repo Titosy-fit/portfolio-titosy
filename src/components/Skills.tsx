@@ -8,7 +8,7 @@ import {
   SiReact, SiNextdotjs, SiTypescript, SiTailwindcss, SiJavascript,
   SiMongodb, SiPostgresql, SiMysql,
   SiDocker, SiGit, SiGithubactions, SiIntellijidea, SiPostman,SiLinux,
-  SiCanva, SiFigma, SiAppstore
+  SiCanva, SiFigma, SiPython,SiAppstore
 } from "react-icons/si";
 import { IoLogoGooglePlaystore } from "react-icons/io5";
 
@@ -25,7 +25,7 @@ export default function Skills() {
         { name: "Symfony", icon: SiSymfony },
         { name: "Laravel", icon: SiLaravel },
         { name: "Node.js", icon: SiNodedotjs },
-        { name: "Spring", icon: SiSpring },
+        { name: "Python", icon: SiPython },
         { name: "Asp.Net", icon: SiDotnet }
       ]
     },
@@ -62,7 +62,7 @@ export default function Skills() {
       color: "from-rose-500 to-pink-600",
       skills: [
         { name: "VS Code", icon: SiIntellijidea },
-        { name: "IntelliJ", icon: SiIntellijidea },
+        // { name: "IntelliJ", icon: SiIntellijidea },
         { name: "Git", icon: SiGit },
         { name: "Postman", icon: SiPostman },
         { name: "WSL", icon: SiLinux }
@@ -74,8 +74,8 @@ export default function Skills() {
       skills: [
         { name: "Canva", icon: SiCanva },
         { name: "Figma", icon: SiFigma },
-        { name: "AppStore", icon: SiAppstore },
-        { name: "PlayStore", icon: IoLogoGooglePlaystore },
+        // { name: "AppStore", icon: SiAppstore },
+        // { name: "PlayStore", icon: IoLogoGooglePlaystore },
       ]
     }
   ];
