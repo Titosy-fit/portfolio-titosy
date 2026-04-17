@@ -31,7 +31,7 @@ export default function Education() {
       description: t("ed-4.description"),
       type: "formation",
       badge: t("ed-4.badge"),
-      link: "https://drive.google.com/file/d/1HXAqwD1Fmah12jgv8piNSQ-tJbZe5WH_/view?usp=sharing"
+      // link: "https://drive.google.com/file/d/1HXAqwD1Fmah12jgv8piNSQ-tJbZe5WH_/view?usp=sharing"
     },
     {
       id: 3,
@@ -59,7 +59,7 @@ export default function Education() {
       description: t("ed-1.description"),
       type: "certification",
       badge: t("ed-1.badge"),
-      link: "https://www.freecodecamp.org/certification/MahefaNant/foundational-c-sharp-with-microsoft"
+      // link: "https://www.freecodecamp.org/certification/MahefaNant/foundational-c-sharp-with-microsoft"
     },
   ];
 

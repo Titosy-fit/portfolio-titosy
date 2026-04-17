@@ -52,8 +52,8 @@ export default function RootLayout({
         <link rel="apple-touch-icon" sizes="180x180" href="/static/images/apple-touch-icon.png" />
         <meta name="apple-mobile-web-app-title" content="MyWebSite" />
         <link rel="manifest" href="/static/images/site.webmanifest" />
-        <link rel="alternate" href="https://mahefa.vercel.app/en" hrefLang="en" />
-        <link rel="alternate" href="https://mahefa.vercel.app/fr" hrefLang="fr" />
+        <link rel="alternate" href="https://titosy.vercel.app/en" hrefLang="en" />
+        <link rel="alternate" href="https://titosy.vercel.app/fr" hrefLang="fr" />
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={true}>
           <I18nProvider>
             {children}

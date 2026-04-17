@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://mahefa.vercel.app',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://titosyfit.vercel.app',
   generateRobotsTxt: true,
   exclude: ['/404'],
   robotsTxtOptions: {
