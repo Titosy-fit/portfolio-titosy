@@ -1,5 +1,5 @@
 export async function GET() {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://titosyfit.vercel.app/";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://titosy.vercel.app/";
   
   const robotsTxt = `User-agent: *
 Allow: /
