@@ -1,6 +1,14 @@
 {
     "section": "Completed Projects",
     "description": "A selection of projects I have worked on.",
+    "pr-6": {
+        "title": "E-learning Platform – Tuto Info",
+        "description": "Fullstack development of an online learning platform enabling the delivery of structured courses (videos, chapters, resources). Implementation of a user management and pedagogical progress tracking system. API design for content management and dynamic display, with particular attention to performance and user experience."
+    },
+    "pr-5": {
+        "title": "iGoGuide Gironde",
+        "description": "Design and development of a tourism discovery web platform allowing users to search for local places, activities, and services. Implementation of an advanced filtering and categorization system to optimize the user experience. Development of a responsive and high-performance interface, with dynamic content management and navigation optimization."
+    },
     "pr-4": {
         "title": "AI Web Application – Smart Tic-Tac-Toe",
         "description": "Fullstack development of a web application with AI for the Tic-Tac-Toe game (3 modes: ML, hybrid, multiplayer). Dataset generation (5,478 states), ML modeling (XGBoost, Logistic Regression) and deployment on Streamlit. Immersive interface with animations and duel system, demonstrating mastery of ML, MLOps and UI/UX."

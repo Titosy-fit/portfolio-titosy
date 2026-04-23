@@ -25,6 +25,22 @@ export default function Projects() {
 
   const projects: IProject[] = [
     {
+      id: 6,
+      title: t("pr-6.title"),
+      description: t("pr-6.description"),
+      tags: ["Fullstack", "API", "Video", "E-learning"],
+      images: ["/static/images/oa/oa1.png"],
+      isPrivate: true
+    },
+    {
+      id: 5,
+      title: t("pr-5.title"),
+      description: t("pr-5.description"),
+      tags: ["Web", "Tourisme", "Filtrage", "Responsive"],
+      images: ["/static/images/oa/oa1.png"],
+      isPrivate: true
+    },
+    {
       id: 4,
       title: t("pr-4.title"),
       description: t("pr-4.description"),

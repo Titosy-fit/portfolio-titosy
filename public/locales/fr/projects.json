@@ -1,6 +1,14 @@
 {
     "section": "Projets Réalisés",
     "description": "Une sélection de projets sur lesquels j'ai travaillé.",
+    "pr-6": {
+        "title": "Plateforme e-learning – Tuto Info",
+        "description": "Développement fullstack d'une plateforme de formation en ligne permettant la diffusion de cours structurés (vidéos, chapitres, ressources). Implémentation d'un système de gestion des utilisateurs et de progression pédagogique. Conception d'API pour la gestion des contenus et affichage dynamique, avec une attention particulière portée à la performance et à l'expérience utilisateur."
+    },
+    "pr-5": {
+        "title": "iGoGuide Gironde",
+        "description": "Conception et développement d'une plateforme web de découverte touristique permettant aux utilisateurs de rechercher des lieux, activités et services locaux. Implémentation d'un système avancé de filtrage et de catégorisation pour optimiser l'expérience utilisateur. Développement d'une interface responsive et performante, avec gestion dynamique des contenus et optimisation de la navigation."
+    },
     "pr-4": {
         "title": "Application Web IA – Morpion intelligent",
         "description": "Développement fullstack d'une application web avec IA pour le jeu Tic-Tac-Toe (3 modes : ML, hybride, multijoueur). Génération de dataset (5 478 états), modélisation ML (XGBoost, Logistic Regression) et déploiement sur Streamlit. Interface immersive avec animations et système de duel, démontrant une maîtrise de ML, MLOps et UI/UX."
