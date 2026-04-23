@@ -29,7 +29,7 @@ export default function Projects() {
       title: t("pr-6.title"),
       description: t("pr-6.description"),
       tags: ["Fullstack", "API", "Video", "E-learning"],
-      images: ["/static/images/oa/oa1.png"],
+      images: ["/static/images/oe/oe.jpeg","/static/images/oe/oe1.jpeg", "/static/images/oe/oe2.jpeg",],
       liveUrl: "https://tuto-info.com/",
 
       isPrivate: true
@@ -39,7 +39,7 @@ export default function Projects() {
       title: t("pr-5.title"),
       description: t("pr-5.description"),
       tags: ["Web", "Tourisme", "Filtrage", "Responsive"],
-      images: ["/static/images/oa/oa1.png"],
+      images: ["/static/images/od/od.jpeg","/static/images/od/od1.jpeg", "/static/images/od/od2.jpeg",],
       liveUrl: "https://igoguide-gironde.com/",
 
       isPrivate: true
