@@ -32,7 +32,7 @@ export default function Projects() {
       images: ["/static/images/oe/oe.jpeg","/static/images/oe/oe1.jpeg", "/static/images/oe/oe2.jpeg",],
       liveUrl: "https://tuto-info.com/",
 
-      isPrivate: true
+      isPrivate: false
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ export default function Projects() {
       images: ["/static/images/od/od.jpeg","/static/images/od/od1.jpeg", "/static/images/od/od2.jpeg",],
       liveUrl: "https://igoguide-gironde.com/",
 
-      isPrivate: true
+      isPrivate: false
     },
     {
       id: 4,
@@ -67,7 +67,7 @@ export default function Projects() {
       tags: ["React Native", "Node.js", "API", "Payment"],
       images: ["/static/images/hopefy.png"],
       liveUrl: "https://qitkif.com/",
-      isPrivate: true
+      isPrivate: false
     },
     {
       id: 1,
