@@ -30,6 +30,8 @@ export default function Projects() {
       description: t("pr-6.description"),
       tags: ["Fullstack", "API", "Video", "E-learning"],
       images: ["/static/images/oa/oa1.png"],
+      liveUrl: "https://tuto-info.com/",
+
       isPrivate: true
     },
     {
@@ -38,6 +40,8 @@ export default function Projects() {
       description: t("pr-5.description"),
       tags: ["Web", "Tourisme", "Filtrage", "Responsive"],
       images: ["/static/images/oa/oa1.png"],
+      liveUrl: "https://igoguide-gironde.com/",
+
       isPrivate: true
     },
     {
