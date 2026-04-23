@@ -18,7 +18,7 @@ export function middleware(request: NextRequest) {
   const STATIC_PATHS = [
     "/robots.txt",
     "/favicon.ico", 
-    "/googled80e1742b77bf486.html"
+    "/google-site-verification.txt"
   ];
 
   const STATIC_EXTENSIONS = [
